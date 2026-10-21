@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vistos>
+  <filme>
+    <titulo>Obsession</titulo>
+    <ano />
+    <nota>2</nota>
+    <data_visto>2025-03-08</data_visto>
+  </filme>
+  <filme>
+    <titulo>in the electric mist</titulo>
+    <ano>2009</ano>
+    <nota>9,5</nota>
+    <data_visto>2025-07-20</data_visto>
+  </filme>
+  <filme>
+    <titulo>to the bone</titulo>
+    <ano>2017</ano>
+    <nota>5,5</nota>
+    <data_visto>24-04-24</data_visto>
+  </filme>
+  <filme>
+    <titulo>street fighter: the legend of chun-li</titulo>
+    <ano>2009</ano>
+    <nota>1</nota>
+    <data_visto>2025-06-03</data_visto>
+  </filme>
+  <filme>
+    <titulo>Valentine</titulo>
+    <ano>2001</ano>
+    <nota>9</nota>
+    <data_visto>05-06-24</data_visto>
+  </filme>
+  <filme>
+    <titulo>super troopers 2</titulo>
+    <ano>2018</ano>
+    <nota>1,5</nota>
+    <data_visto>2025-05-15</data_visto>
+  </filme>
+  <filme>
+    <titulo>Camp X-Ray</titulo>
+    <ano>2014</ano>
+    <nota>6</nota>
+    <data_visto>2024-09-03</data_visto>
+  </filme>
+  <filme>
+    <titulo>  Replicas </titulo>
+    <ano />
+    <nota>2</nota>
+    <data_visto>May 11, 2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>  Untraceable </titulo>
+    <ano>2008</ano>
+    <nota>abc</nota>
+    <data_visto>04/08/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>IMPOSTOR</titulo>
+    <ano>2001</ano>
+    <nota>abc</nota>
+    <data_visto>03/05/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>I Don't Know How She Does It.</titulo>
+    <ano>2011</ano>
+    <nota>1</nota>
+    <data_visto>25/08/2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>JUNGLE</titulo>
+    <ano />
+    <nota>1</nota>
+    <data_visto>2024-12-04</data_visto>
+  </filme>
+  <filme>
+    <titulo>Pirate Radio</titulo>
+    <ano>2009</ano>
+    <nota>8</nota>
+    <data_visto>Aug 07, 2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>Meg 2: The Trench.</titulo>
+    <ano>2023</ano>
+    <nota>8</nota>
+    <data_visto>Apr 09, 2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>  Sirat </titulo>
+    <ano>2025</ano>
+    <nota>7</nota>
+    <data_visto>Mar 03, 2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>Secretariat</titulo>
+    <ano>2010</ano>
+    <nota>4</nota>
+    <data_visto>Jul 03, 2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>knowing</titulo>
+    <ano>2009</ano>
+    <nota>5</nota>
+    <data_visto>Mar 18, 2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>We're the Millers</titulo>
+    <ano>2013</ano>
+    <nota>9</nota>
+    <data_visto>05/04/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>Secretariat</titulo>
+    <ano>2010</ano>
+    <nota>abc</nota>
+    <data_visto>01/03/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>Hotel for Dogs</titulo>
+    <ano>2009</ano>
+    <nota>8,5</nota>
+    <data_visto>Mar 09, 2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>x</titulo>
+    <ano>2022</ano>
+    <nota>5</nota>
+    <data_visto>2024-11-17</data_visto>
+  </filme>
+  <filme>
+    <titulo>Bad Newz.</titulo>
+    <ano />
+    <nota>9</nota>
+    <data_visto>2024-02-28</data_visto>
+  </filme>
+  <filme>
+    <titulo>adam's apples</titulo>
+    <ano>2005</ano>
+    <nota>10</nota>
+    <data_visto>2025-02-17</data_visto>
+  </filme>
+  <filme>
+    <titulo>Halloween: Resurrection</titulo>
+    <ano>2002</ano>
+    <nota>10</nota>
+    <data_visto>2025-09-26</data_visto>
+  </filme>
+  <filme>
+    <titulo>forgotten</titulo>
+    <ano>2017</ano>
+    <nota>9,5</nota>
+    <data_visto>24/09/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>  The   Trip </titulo>
+    <ano>2010</ano>
+    <nota>abc</nota>
+    <data_visto>14-05-24</data_visto>
+  </filme>
+  <filme>
+    <titulo>Shiva Baby</titulo>
+    <ano>2020</ano>
+    <nota>2</nota>
+    <data_visto>16/03/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>Uri: The Surgical Strike</titulo>
+    <ano>2019</ano>
+    <nota>6</nota>
+    <data_visto>13-01-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>The Rum Diary</titulo>
+    <ano>2011</ano>
+    <nota>9</nota>
+    <data_visto>21-07-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>The Christmas Chronicles.</titulo>
+    <ano>2018</ano>
+    <nota>2</nota>
+    <data_visto>19/04/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>  The   Jacket </titulo>
+    <ano>2005</ano>
+    <nota>4</nota>
+    <data_visto>11-10-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>DOG</titulo>
+    <ano>2022</ano>
+    <nota>abc</nota>
+    <data_visto>2024-10-10</data_visto>
+  </filme>
+  <filme>
+    <titulo>the crimson rivers</titulo>
+    <ano />
+    <nota>abc</nota>
+    <data_visto>Jul 18, 2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>DR. DOLITTLE 2</titulo>
+    <ano>2001</ano>
+    <nota>2</nota>
+    <data_visto>13/01/2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>valkyrie</titulo>
+    <ano>2008</ano>
+    <nota>1</nota>
+    <data_visto>01/01/2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>The Super</titulo>
+    <ano>2017</ano>
+    <nota>abc</nota>
+    <data_visto>27/09/2025</data_visto>
+  </filme>
+  <filme>
+    <titulo>The Imposter</titulo>
+    <ano>2012</ano>
+    <nota>abc</nota>
+    <data_visto>26/01/2024</data_visto>
+  </filme>
+  <filme>
+    <titulo>valkyrie</titulo>
+    <ano>2008</ano>
+    <nota>4,5</nota>
+    <data_visto>2024-06-12</data_visto>
+  </filme>
+  <filme>
+    <titulo>The Science of Sleep</titulo>
+    <ano>2006</ano>
+    <nota>8</nota>
+    <data_visto>16-04-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>BODIES BODIES BODIES</titulo>
+    <ano>2022</ano>
+    <nota>4</nota>
+    <data_visto>12-02-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>Paycheck.</titulo>
+    <ano>2003</ano>
+    <nota>abc</nota>
+    <data_visto>03-07-25</data_visto>
+  </filme>
+  <filme>
+    <titulo>Valentine</titulo>
+    <ano>2001</ano>
+    <nota>3,5</nota>
+    <data_visto>2024-02-09</data_visto>
+  </filme>
+  <filme>
+    <titulo>dhoom 2</titulo>
+    <ano>2006</ano>
+    <nota>6</nota>
+    <data_visto>29/01/2025</data_visto>
+  </filme>
+</vistos>
