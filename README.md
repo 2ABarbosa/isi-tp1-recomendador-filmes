@@ -9,7 +9,7 @@ do IMDb (TSV) com uma lista de filmes vistos (XML) e carrega o resultado numa
 base de dados MySQL.
 
 ## Conteúdo
-- `TransformationM.ktr` - transformação A: filmes, ratings e géneros
+- `A_Filmes.ktr` - transformação A: filmes, ratings e géneros
 - `B_Vistos.ktr` - transformação B: limpeza do vistos.xml
 - `Job_Principal.kjb` - job que corre A e B por ordem
 - `preparar_dados.py` - filtra os dados do IMDb e gera o vistos.xml com erros propositados
